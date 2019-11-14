@@ -9,7 +9,7 @@ In addition to finding the distance
 code that is used for the robot's eyes
 
 C# FILES
-In the template file of c # the kinect 
+In the template file of C# the kinect 
 code is used to control the hands and knees of the robot.
 In addition to having the serial port trigger
  to connect with the arduino
